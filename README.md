@@ -1,4 +1,4 @@
-# HKdigital development proxy
+# Local proxy for frontend and backend development
 
 ## About
 
