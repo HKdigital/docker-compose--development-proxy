@@ -77,4 +77,4 @@ Setup a public URL using the NGROK tool and point it to the host port `9999` whe
 
 If you like our work and would like us to share some more code, please support us:
 
-https://www.buymeacoffee.com/hkdigital
+[Buy me a coffee](https://www.buymeacoffee.com/hkdigital)
