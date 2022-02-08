@@ -37,7 +37,7 @@ docker-compose ps
 
 ## What happens?
 
- This project uses a docker image `hkdigital/nginx`. By setting an environment property `INSTALL_DEFAULTS=local-dev-proxy` in the docker-compose file, the image is instructed to install the configuration files for a local development proxy.
+ This project uses a docker image `hkdigital/nginx`. By setting an environment property `INSTALL_DEFAULTS=development-proxy` in the docker-compose file, the image is instructed to install the configuration files for a local development proxy.
 
 Traffic from the incoming port is then proxied to ports where the local development servers should listen.
 
