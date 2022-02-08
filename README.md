@@ -3,10 +3,10 @@
 ## About
 
 A common setup for production websites is to have a setup where:
-- The frontend is a Single Page Application (SPA), that is served from the root of the domain
-- The backend is an API that is served from a subpath on the same domain. E.g. /api
+- The frontend is a Single Page Application (SPA) that is served from the root of the domain.
+- The backend is an API server that is served from a subpath on the same domain. E.g. /api.
 
-During development it is handy to have the a setup that mimics the production setup. So you would like to have a frontend server and a backend server listening to requests on the same port. A (web) proxy can be used just for that purpose and more.
+During development it is handy to have the a setup that mimics the production setup: a frontend server and a backend server listening to requests on the same port. A (web) proxy can be used just for that purpose.
 
 ## Dependencies
 
